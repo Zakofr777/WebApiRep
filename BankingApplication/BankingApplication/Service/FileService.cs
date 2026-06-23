@@ -5,7 +5,7 @@ namespace BankingApplication.Service;
 
 public class FileService
 {
-    private string filePath = "users.json";
+    private string filePath = "OurBankUsers.json";
     
     public List<User> LoadUsers()
     {
@@ -30,7 +30,7 @@ public class FileService
         }
     }
 
-    private void SaveUsers(List<User> users)
+    public void SaveUsers(List<User> users)
     {
         try
         {
@@ -48,7 +48,7 @@ public class FileService
 
     private List<User> SeedDefaultData()
     {
-        var card1 = new CreditCard("1234567890123456", "12/28", "123", "1111");
+        var card1 = new CreditCard("1234567890123456", "123", "12/28", "1111");
         
         var user1 = new User("John", "Doe", card1, 1500.00m, 200.00m, 50.00m, new List<Transaction>());
         
@@ -59,9 +59,22 @@ public class FileService
             200.00m,               
             50.00m           
         ));
+        
+        var card2 = new CreditCard("1111111111111111", "555", "11/26", "1323");
+        
+        var user2 = new User("gio", "labadze", card2, 150.00m, 200.00m, 50.00m, new List<Transaction>());
+        
+        user2.TransactionHistory.Add(new Transaction(
+            DateTime.Now,          
+            "Account Opened",    
+            150.00m,              
+            200.00m,               
+            50.00m           
+        ));
 
         var DefaultUsers = new List<User>();
         DefaultUsers.Add(user1);
+        DefaultUsers.Add(user2);
         return DefaultUsers;
     }
 }

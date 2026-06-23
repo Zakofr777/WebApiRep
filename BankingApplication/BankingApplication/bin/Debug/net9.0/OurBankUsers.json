@@ -1,0 +1,81 @@
+[
+  {
+    "username": "John",
+    "lastName": "Doe",
+    "creditCard": {
+      "CardNumber": "1234567890123456",
+      "CVC": "123",
+      "ExpirationDate": "12/28",
+      "Pincode": "1111"
+    },
+    "BalanceGEL": 1500.00,
+    "BalanceUSD": 200.00,
+    "BalanceEUR": 50.00,
+    "TransactionHistory": [
+      {
+        "TransactionDate": "2026-06-23T20:10:28.5238948+04:00",
+        "TransactionType": "Account Opened",
+        "AmountGel": 1500.00,
+        "AmountUSD": 200.00,
+        "AmountEUR": 50.00
+      }
+    ]
+  },
+  {
+    "username": "gio",
+    "lastName": "labadze",
+    "creditCard": {
+      "CardNumber": "1111111111111111",
+      "CVC": "555",
+      "ExpirationDate": "11/26",
+      "Pincode": "1323"
+    },
+    "BalanceGEL": 62.00,
+    "BalanceUSD": 272.00,
+    "BalanceEUR": 50.00,
+    "TransactionHistory": [
+      {
+        "TransactionDate": "2026-06-23T20:10:28.5252581+04:00",
+        "TransactionType": "Account Opened",
+        "AmountGel": 150.00,
+        "AmountUSD": 200.00,
+        "AmountEUR": 50.00
+      },
+      {
+        "TransactionDate": "2026-06-23T20:11:07.6325573+04:00",
+        "TransactionType": "Exchange (GEL to USD)",
+        "AmountGel": 100,
+        "AmountUSD": 36.00,
+        "AmountEUR": 0
+      },
+      {
+        "TransactionDate": "2026-06-23T20:46:14.2836801+04:00",
+        "TransactionType": "Deposit",
+        "AmountGel": 1000,
+        "AmountUSD": 0,
+        "AmountEUR": 0
+      },
+      {
+        "TransactionDate": "2026-06-23T20:53:54.7077043+04:00",
+        "TransactionType": "Deposit",
+        "AmountGel": 112,
+        "AmountUSD": 0,
+        "AmountEUR": 0
+      },
+      {
+        "TransactionDate": "2026-06-23T20:54:12.9380697+04:00",
+        "TransactionType": "Withdraw",
+        "AmountGel": 1000,
+        "AmountUSD": 0,
+        "AmountEUR": 0
+      },
+      {
+        "TransactionDate": "2026-06-23T20:54:47.4408019+04:00",
+        "TransactionType": "Exchange (GEL to USD)",
+        "AmountGel": 100,
+        "AmountUSD": 36.00,
+        "AmountEUR": 0
+      }
+    ]
+  }
+]

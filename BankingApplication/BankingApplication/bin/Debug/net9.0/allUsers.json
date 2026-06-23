@@ -1,0 +1,31 @@
+[
+  {
+    "username": "John",
+    "lastName": "Doe",
+    "creditCard": {
+      "CardNumber": "1234567890123456",
+      "CVC": "123",
+      "ExpirationDate": "12/28",
+      "Pincode": "1234"
+    },
+    "BalanceGEL": 1500.00,
+    "BalanceUSD": 200.00,
+    "BalanceEUR": 50.00,
+    "TransactionHistory": [
+      {
+        "TransactionDate": "2026-06-23T20:04:42.5560923+04:00",
+        "TransactionType": "Account Opened",
+        "AmountGel": 1500.00,
+        "AmountUSD": 200.00,
+        "AmountEUR": 50.00
+      },
+      {
+        "TransactionDate": "2026-06-23T20:06:22.4193841+04:00",
+        "TransactionType": "PIN Changed",
+        "AmountGel": 0,
+        "AmountUSD": 0,
+        "AmountEUR": 0
+      }
+    ]
+  }
+]

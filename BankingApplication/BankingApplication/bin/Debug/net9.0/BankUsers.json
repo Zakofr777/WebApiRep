@@ -1,0 +1,46 @@
+[
+  {
+    "username": "John",
+    "lastName": "Doe",
+    "creditCard": {
+      "CardNumber": "1234567890123456",
+      "CVC": "123",
+      "ExpirationDate": "12/28",
+      "Pincode": "1111"
+    },
+    "BalanceGEL": 1500.00,
+    "BalanceUSD": 200.00,
+    "BalanceEUR": 50.00,
+    "TransactionHistory": [
+      {
+        "TransactionDate": "2026-06-23T20:09:02.4836499+04:00",
+        "TransactionType": "Account Opened",
+        "AmountGel": 1500.00,
+        "AmountUSD": 200.00,
+        "AmountEUR": 50.00
+      }
+    ]
+  },
+  {
+    "username": "gio",
+    "lastName": "labadze",
+    "creditCard": {
+      "CardNumber": "1234567890123456",
+      "CVC": "123",
+      "ExpirationDate": "12/28",
+      "Pincode": "1111"
+    },
+    "BalanceGEL": 150.00,
+    "BalanceUSD": 200.00,
+    "BalanceEUR": 50.00,
+    "TransactionHistory": [
+      {
+        "TransactionDate": "2026-06-23T20:09:02.4852817+04:00",
+        "TransactionType": "Account Opened",
+        "AmountGel": 150.00,
+        "AmountUSD": 200.00,
+        "AmountEUR": 50.00
+      }
+    ]
+  }
+]

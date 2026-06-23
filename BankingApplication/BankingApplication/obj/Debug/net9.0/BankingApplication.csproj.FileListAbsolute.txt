@@ -1,0 +1,15 @@
+C:\Users\Lenovo\RiderProjects\BankingApplication\BankingApplication\BankingApplication\bin\Debug\net9.0\BankingApplication.exe
+C:\Users\Lenovo\RiderProjects\BankingApplication\BankingApplication\BankingApplication\bin\Debug\net9.0\BankingApplication.deps.json
+C:\Users\Lenovo\RiderProjects\BankingApplication\BankingApplication\BankingApplication\bin\Debug\net9.0\BankingApplication.runtimeconfig.json
+C:\Users\Lenovo\RiderProjects\BankingApplication\BankingApplication\BankingApplication\bin\Debug\net9.0\BankingApplication.dll
+C:\Users\Lenovo\RiderProjects\BankingApplication\BankingApplication\BankingApplication\bin\Debug\net9.0\BankingApplication.pdb
+C:\Users\Lenovo\RiderProjects\BankingApplication\BankingApplication\BankingApplication\obj\Debug\net9.0\BankingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\BankingApplication\BankingApplication\BankingApplication\obj\Debug\net9.0\BankingApplication.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\BankingApplication\BankingApplication\BankingApplication\obj\Debug\net9.0\BankingApplication.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\BankingApplication\BankingApplication\BankingApplication\obj\Debug\net9.0\BankingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\BankingApplication\BankingApplication\BankingApplication\obj\Debug\net9.0\BankingApplication.sourcelink.json
+C:\Users\Lenovo\RiderProjects\BankingApplication\BankingApplication\BankingApplication\obj\Debug\net9.0\BankingApplication.dll
+C:\Users\Lenovo\RiderProjects\BankingApplication\BankingApplication\BankingApplication\obj\Debug\net9.0\refint\BankingApplication.dll
+C:\Users\Lenovo\RiderProjects\BankingApplication\BankingApplication\BankingApplication\obj\Debug\net9.0\BankingApplication.pdb
+C:\Users\Lenovo\RiderProjects\BankingApplication\BankingApplication\BankingApplication\obj\Debug\net9.0\BankingApplication.genruntimeconfig.cache
+C:\Users\Lenovo\RiderProjects\BankingApplication\BankingApplication\BankingApplication\obj\Debug\net9.0\ref\BankingApplication.dll
