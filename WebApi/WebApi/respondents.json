@@ -1,0 +1,15 @@
+[
+  {
+    "CreateDate": "2026-07-16T09:04:18.547Z",
+    "FirstName": "string",
+    "LastName": "string",
+    "jobPosition": "string",
+    "Salary": 0,
+    "WorkExperince": 0,
+    "PersonAddress": {
+      "Country": "string",
+      "City": "string",
+      "HomeNumber": "string"
+    }
+  }
+]

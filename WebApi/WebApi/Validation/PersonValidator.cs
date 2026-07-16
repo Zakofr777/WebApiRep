@@ -6,7 +6,7 @@ using WebApi.Validation;
 namespace WebApi.Validators;
 
 public class PersonValidator : AbstractValidator<Person>
-{
+{ 
     public PersonValidator()
     {
         RuleFor(x => x.CreateDate)
